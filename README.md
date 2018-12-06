@@ -1,4 +1,9 @@
-#Storyboard
+
+[<div style="text-align:center"><img src ="https://i.imgur.com/tuikIC1.png" width="200"/></div>](http://htmlpreview.github.io/?https://github.com/tommynanny/Mid-County-Park-Ut-Prosim/blob/master/README.html)
+#<center>Mid-County Park Pal</center>
+
+---
+##Storyboard
 
 We create the storyboard based on two of the main featured functions of our app, which are the function of grouping people together (the group function) and the function of the reporting suspicious action (the report function).
 
@@ -6,13 +11,13 @@ We create the storyboard based on two of the main featured functions of our app,
 
 Before we start creating our storyboard, we follow the questions from the “Probing the Storyboard” section on the course slide. So we want to focus on the claims that are related to the group function. 
 
-“What’s important about the technology?” 
+***“What’s important about the technology?”***
 The technology can help people locate their group members, and specifically, it can help parents to locate their children. And people do care about where to find their friends in the group. 
  
-“What limits are placed on the technology?” 
+***“What limits are placed on the technology?”***
 The limit is pretty obvious that in order to be tracked by the other group member, the user is required to have a mobile device with this application installed. So in our storyboard, we want to make sure that all users have their mobile devices and also installed with our app. 
 
-“Would this storyboard have been as effective in scenario form? As a series of claims? As a spoken “elevator pitch”? In another form?” 
+***“Would this storyboard have been as effective in scenario form? As a series of claims? As a spoken “elevator pitch”? In another form?”***
 We decide to use scenario form since it is more effective to show how worried the child’s parent is when he can’t find his child, and also how relieved he will be when finding his child through the group function eventually. The emotional attachment can be expressed more effectively through the scenario form than others.
 
 As we go through all these questions, the storyboard starts to form.
