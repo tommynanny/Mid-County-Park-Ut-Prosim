@@ -1,5 +1,5 @@
 
-[<div style="text-align:center"><img src ="https://i.imgur.com/tuikIC1.png" width="200"/></div>](http://htmlpreview.github.io/?https://github.com/tommynanny/Mid-County-Park-Ut-Prosim/blob/master/README.html)
+[<div style="text-align:center"><img src ="https://i.imgur.com/tuikIC1.png" width="300"/></div>](http://htmlpreview.github.io/?https://github.com/tommynanny/Mid-County-Park-Ut-Prosim/blob/master/README.html)
 #<center>Secret Phase: Ut Prosim 
 #<center>Mid-County Park Pal</center>
 <center>CS 3724 - Fall 2018</center>
@@ -103,3 +103,54 @@ Feature: Using the “Report system” to report suspicious activity<br/><center
 Feature: Using the “Forum board” to make discussion and meet people<br/><center>![image7](https://i.imgur.com/i0swQFr.png)</center>|+Forum can be used to meet new people<br/>Jade Boyd-Rice from Futurity says to meet more people, someone should be “active in as many communities as possible.” A Mid-County Park forum board would add a new way to meet new people.<br/><br/>+People can have discussions about the park(improvements, problems, events)<br/><br/>-People abusing forum board<br/>Joshua Miller from the NYPost talked about how people can coordinate to “manipulate platforms” in negative ways. In this case Twitter users were harassing other users with opposing political views.
 Feature: Using “Register” to create an account<br/><center>![image9](https://i.imgur.com/hL7JsKo.png)</center>|+Discourages bad behavior on the app<br/>Taylor Lorenz from The Atlantic says that Instagram has a severe harassment problem which is partly caused by people ability to make “endless anonymous accounts.”<br/><br/>-Making an account can be tedious<br/>Conor Sheehan from freeCodeCamp claims “When an app requires users to register or login, they are adding a layer of friction during the crucial first impression.”<br/><br/>-Users may forget login credentials<br/>Irene Tham from Straitstimes says that “users tend to forget their passwords,” which can cause difficulty for users
 
+---
+#Ideation
+
+Our ideation is mainly based on the interview and observation results that we got and the refined version of the DIM that we built from phase 1. 
+
+Our interview results indicates that one of the big issues of Mid-County Park is the security of the park. Our interviewee complained that she has seen people doing illegal activities at the park trails which can cause a lot of trouble since a majority of the park guests bring their children to the park. 
+
+Therefore, the first major feature that we decided to build on our mobile app is a report system for the park guest to report suspicious activities in the park which will improve the security of the park and its trails. 
+
+Secondly, from our observation results, we saw most of the park guests bring their children to the park and let their children play together in the park, but the trails in the park are unmarked and very long and complex so it’s easy for people to get lost (especially children). 
+
+Therefore, we want to include a tracking system in our app that can let parents track the location of their children in the park by forming a group on the app with their children’s accounts. 
+
+---
+#Sketching
+
+For the sketches, we designed the interfaces of the pages that we think is necessary for our App. We all agreed that a map for the park with people’s locations on it is essential to our app. And because the map part of the app and the forum can be seen as two major separate components of our app, we came up with different designs of how should user access and switch between the forum and the map. 
+
+And following are our sketching for each screen:
+<center>
+
+<div style="text-align:center"><img src ="https://i.imgur.com/wlgKbzi.jpg" width="300"/></div>
+Sketch 1: Login Screen<br/><br/><br/><br/>
+
+<div style="text-align:center"><img src ="https://i.imgur.com/wlgKbzi.jpg" width="300"/></div>
+Sketch 2: Park Map Screen (including option 1 for switching between map and forum)<br/><br/><br/><br/>
+
+<div style="text-align:center"><img src ="https://i.imgur.com/odgZBqr.jpg" width="300"/></div>
+Sketch 3: Option 2 for switching between map and forum<br/><br/><br/><br/>
+
+<div style="text-align:center"><img src ="https://i.imgur.com/Y8iX6k9.jpg" width="300"/></div>
+Sketch 4: Option 3 for switching between map and forum
+<br/><br/><br/><br/>
+
+<div style="text-align:center"><img src ="https://i.imgur.com/SgtTISz.jpg" width="300"/></div>
+Sketch 5: Report Suspicious Activity<br/><br/><br/><br/>
+
+<div style="text-align:center"><img src ="https://i.imgur.com/ep6ivY9.jpg" width="300"/></div>
+Sketch 6: Grouping Children<br/><br/><br/><br/>
+
+<div style="text-align:center"><img src ="https://i.imgur.com/frIiqvl.jpg" width="300"/></div>
+Sketch 7: User Profile Page<br/><br/><br/><br/>
+
+<div style="text-align:center"><img src ="https://i.imgur.com/8XURnTR.jpg" width="300"/></div>
+Sketch 8: Forum<br/><br/>
+
+</center>
+
+----
+#Wireframe
+![image14](https://i.imgur.com/vrb5sVT.jpg)
