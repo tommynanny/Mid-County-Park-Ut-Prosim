@@ -14,29 +14,20 @@ Nanlin Sun - nannie@vt.edu
 
 </center>
 
-
 ---
 
-# Claims
-
-So while we are doing the claims, we want to do the claims for the featured functions for our application which would the map system, the report function, the forum, and the login screen. 
-
-To make claims for one feature, we need to come up a title, a topic so that we can have something to write claims about. Take our map system as an example, the main purpose of our map system would be the ability to be able to keep track of the group members, to be able to navigate to different locations, to keep away from getting lost and dangerous zones, etc, most of which are considered to be the safety issues, so the title we come up is “creating a safer environment”. After we have the title, we want to work on claims, to come up good sides and bad sides of this feature. To come up with good sides are easier since most of them are the reasons why we would have this feature in the first place. In order to come up with bad sides of this feature, we need to critique the feature by first finding a point that is easy to critique. The point can be any component that is critical to the key feature. And the point we find is the GPS, which is critical to the map navigation and easy to find bad sides of. And searching online for a bit, we see the debates of how GPS can possibly give away personal information if under some circumstances. And we start to find another point in the feature to critique and write new claims…
-
-As we follow the above strategy, we finish all claims for each of our key feature and the followings are our final claims:
+##Persona : Paco Boglins
 
 
->|Title: Creating a safer park environment
--|-
-Feature: Using the “Map of trails” to navigate and locate friends or family <br/><center>![image6](https://i.imgur.com/BlmkarD.png)</center>|+ Navigating the trails is a lot easier<br/>The trails aren’t marked well and it’s easy to get lost but users could easily find their way around the trails using <br/> <br/>+ Easier to find lost friends and family<br/>Users will have the option to share location with others that they trust to avoid getting lost<br/><br/>- Might not have GPS signal<br/>Some people might not have cell phone service depending on where they are and what service provider they have<br/><br/>-GPS tracking can be a safety concern<br/>There is some controversy with apps tracking your location. Tony Bradley from CSO says “poor coding in apps could expose your location to anyone.”<br/><br/>-Tracking children may be detrimental<br/>The Examiner claimed that tracking your children prevents them from “learning to be independent and keep safe on their own.”
-Feature: Using the “Report system” to report suspicious activity<br/><center>![image1](https://i.imgur.com/IawRlpK.png)</center>|+Park will be safer<br/>Nick Jones from News4Jax says that schools apps for reporting suspicious activity can make school safer and “bridge the gap between law enforcement agencies and schools.” We would like to apply this same concept to the park.<br/><br/>-People can make false reports<br/>Carolea Walters, Director of Marion County’s 911 Center says that fake emergency reports are “very disruptive” and “they take resources away from bona fide emergencies.”
+ 
 
+<div style="text-align:center"><img src ="https://i.imgur.com/ysNhKaL.png"/></div>
 
->|Title:Developing a sense of community in Mid-County Park
--|-
-Feature: Using the “Forum board” to make discussion and meet people<br/><center>![image7](https://i.imgur.com/i0swQFr.png)</center>|+Forum can be used to meet new people<br/>Jade Boyd-Rice from Futurity says to meet more people, someone should be “active in as many communities as possible.” A Mid-County Park forum board would add a new way to meet new people.<br/><br/>+People can have discussions about the park(improvements, problems, events)<br/><br/>-People abusing forum board<br/>Joshua Miller from the NYPost talked about how people can coordinate to “manipulate platforms” in negative ways. In this case Twitter users were harassing other users with opposing political views.
-Feature: Using “Register” to create an account<br/><center>![image9](https://i.imgur.com/hL7JsKo.png)</center>|+Discourages bad behavior on the app<br/>Taylor Lorenz from The Atlantic says that Instagram has a severe harassment problem which is partly caused by people ability to make “endless anonymous accounts.”<br/><br/>-Making an account can be tedious<br/>Conor Sheehan from freeCodeCamp claims “When an app requires users to register or login, they are adding a layer of friction during the crucial first impression.”<br/><br/>-Users may forget login credentials<br/>Irene Tham from Straitstimes says that “users tend to forget their passwords,” which can cause difficulty for users
+Paco Boglins is a 35-year-old man, father of two children, and married to his wife. Paco is heavily concerned about safety, because he is concerned about the well-being of his children, as well as his wife. In the past, his son got lost, because he dozed off for 30 seconds, and his kid walked away. He was eventually found, but since then, he has been heavily concerned with their safety. Paco and his family will greatly benefit from the tracking feature, because his younger son prefers playing on the playground, and his wife and daughter prefer playing disc golf. Since they will be separated, they would need to be able to track each other, in case of emergency. Without this feature, it could be disastrous for the family. Paco would benefit from the forums, because he likes talking with people about things he is passionate about. Paco also would likely benefit from the report feature, because he sees activity that he would want to report, but he couldn’t since the functionality wasn’t there. This would allow for Paco to feel safer bringing his wife and kids to the park, given the incidents in the past.
 
+Rationale for using Paco Boglins as our target persona: We chose Paco Boglins as our target persona for numerous reasons:
+1. Paco is a father of two children, which are a major benefactor of the park, despite being a lower population group than college students. 
+2. College students are a majority group in Montgomery County, but are not as likely to go to a park as middle-aged adults and their children/grandchildren. Paco is also active in the community surrounding Montgomery County. 
 
 ---
 ##Storyboard
@@ -89,4 +80,26 @@ And the final storyboard of the report function is shown below.
 
 
 This storyboard shows the use of the report system of our App. One day lovely couples are walking along the trails at Mid-County Park. But suddenly they see two bad guys are trading illegal goods in the trails. These two couples have seen many illegal activities in the Mid-County park trails before but they cannot do anything with that since the activity center in the park is never open so they cannot ask any park staff for help. But this time, they know the new App Mid-County Park Pal has the feature to report those illegal activities in the park and people has installed cameras along the trails connected with the App. So they opened the map screen on the app and clicked the report button to start reporting. After they dragged the pin to the location with the illegal activity, they entered their description of the illegal activity and clicked ‘report’ to complete the report. Then a video of the view of the location that they located from the phone is sent to the police and the park staff. After police watched the video quickly and verified that the illegal activity reported does exist. They went to the park and caught the two bad guys. After that, fewer and fewer people do illegal activities in Mid-County park, and the park is much safer for people to visit.  
+
+---
+
+# Claims
+
+So while we are doing the claims, we want to do the claims for the featured functions for our application which would the map system, the report function, the forum, and the login screen. 
+
+To make claims for one feature, we need to come up a title, a topic so that we can have something to write claims about. Take our map system as an example, the main purpose of our map system would be the ability to be able to keep track of the group members, to be able to navigate to different locations, to keep away from getting lost and dangerous zones, etc, most of which are considered to be the safety issues, so the title we come up is “creating a safer environment”. After we have the title, we want to work on claims, to come up good sides and bad sides of this feature. To come up with good sides are easier since most of them are the reasons why we would have this feature in the first place. In order to come up with bad sides of this feature, we need to critique the feature by first finding a point that is easy to critique. The point can be any component that is critical to the key feature. And the point we find is the GPS, which is critical to the map navigation and easy to find bad sides of. And searching online for a bit, we see the debates of how GPS can possibly give away personal information if under some circumstances. And we start to find another point in the feature to critique and write new claims…
+
+As we follow the above strategy, we finish all claims for each of our key feature and the followings are our final claims:
+
+
+>|Title: Creating a safer park environment
+-|-
+Feature: Using the “Map of trails” to navigate and locate friends or family <br/><center>![image6](https://i.imgur.com/BlmkarD.png)</center>|+ Navigating the trails is a lot easier<br/>The trails aren’t marked well and it’s easy to get lost but users could easily find their way around the trails using <br/> <br/>+ Easier to find lost friends and family<br/>Users will have the option to share location with others that they trust to avoid getting lost<br/><br/>- Might not have GPS signal<br/>Some people might not have cell phone service depending on where they are and what service provider they have<br/><br/>-GPS tracking can be a safety concern<br/>There is some controversy with apps tracking your location. Tony Bradley from CSO says “poor coding in apps could expose your location to anyone.”<br/><br/>-Tracking children may be detrimental<br/>The Examiner claimed that tracking your children prevents them from “learning to be independent and keep safe on their own.”
+Feature: Using the “Report system” to report suspicious activity<br/><center>![image1](https://i.imgur.com/IawRlpK.png)</center>|+Park will be safer<br/>Nick Jones from News4Jax says that schools apps for reporting suspicious activity can make school safer and “bridge the gap between law enforcement agencies and schools.” We would like to apply this same concept to the park.<br/><br/>-People can make false reports<br/>Carolea Walters, Director of Marion County’s 911 Center says that fake emergency reports are “very disruptive” and “they take resources away from bona fide emergencies.”
+
+
+>|Title:Developing a sense of community in Mid-County Park
+-|-
+Feature: Using the “Forum board” to make discussion and meet people<br/><center>![image7](https://i.imgur.com/i0swQFr.png)</center>|+Forum can be used to meet new people<br/>Jade Boyd-Rice from Futurity says to meet more people, someone should be “active in as many communities as possible.” A Mid-County Park forum board would add a new way to meet new people.<br/><br/>+People can have discussions about the park(improvements, problems, events)<br/><br/>-People abusing forum board<br/>Joshua Miller from the NYPost talked about how people can coordinate to “manipulate platforms” in negative ways. In this case Twitter users were harassing other users with opposing political views.
+Feature: Using “Register” to create an account<br/><center>![image9](https://i.imgur.com/hL7JsKo.png)</center>|+Discourages bad behavior on the app<br/>Taylor Lorenz from The Atlantic says that Instagram has a severe harassment problem which is partly caused by people ability to make “endless anonymous accounts.”<br/><br/>-Making an account can be tedious<br/>Conor Sheehan from freeCodeCamp claims “When an app requires users to register or login, they are adding a layer of friction during the crucial first impression.”<br/><br/>-Users may forget login credentials<br/>Irene Tham from Straitstimes says that “users tend to forget their passwords,” which can cause difficulty for users
 
